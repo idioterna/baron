@@ -1,4 +1,0 @@
-baron
-=====
-
-The Red Baron
